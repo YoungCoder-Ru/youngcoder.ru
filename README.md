@@ -12,7 +12,7 @@
 * `N` - это номер шага;
 * `url` - URL-имя. по которому материал доступен на сайте.
 
-Например, заметке с адресом `https://youngcoder.ru/lessons/1/programming` соответствует каталог `/materials/1/1__programmin/`.
+Например, заметке с адресом `https://youngcoder.ru/lessons/1/programming` соответствует каталог `/materials/1/1__programming/`.
 
 В директории любого шага располагаются 4 файла:
 * `article.md` -- основной материал заметки;
