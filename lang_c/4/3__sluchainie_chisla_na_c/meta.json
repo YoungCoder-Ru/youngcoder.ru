@@ -1,0 +1,9 @@
+{
+	"title": "Генерация псевдослучайных чисел в языке Си. Функция rand",
+	"description": "Как сгенерировать случайное число в программе на языке Си? На этот вопрос отвечает этот урок. Разбирается работа функций rand и srand. Описаны способы ограничить случайные числа сверху и снизу",
+	"keywords": "псевдослучайные числа, функция rand, функция srand",
+	"article_number": 26,
+	"previous_article": "4/prioritet_operaciy",
+	"next_article": "5/",
+	"canonical_link": "https://youngcoder.ru/lessons/4/sluchainie_chisla_na_c"
+}

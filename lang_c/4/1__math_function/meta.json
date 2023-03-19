@@ -1,0 +1,9 @@
+{
+	"title": "Математические функции в языке Си",
+	"description": "Учимся использовать стандартные математические функции заголовочного файла math.h",
+	"keywords": "математические функции в си, заголовочный файл math.h, неявное преобразование типов",
+	"article_number": 24,
+	"previous_article": "4/arifmeticheskie_deistviya",
+	"next_article": "4/prioritet_operaciy",
+	"canonical_link": "https://youngcoder.ru/lessons/4/math_function"
+}
