@@ -1,8 +1,8 @@
 {
 	"title": "Урок 8: Массивы",
-	"description": "",
-	"keywords": "",
-	"article_number": 68,
+	"description": "В уроке на наглядном примере даётся ответ на вопрос, зачем нужны массивы в программировании.",
+	"keywords": "массивы",
+	"article_number": 41,
 	"previous_article": "7/upravlenie_ciklom",
 	"next_article": "8/odnomernie_massivy",
 	"canonical_link": "https://youngcoder.ru/lessons/8/",

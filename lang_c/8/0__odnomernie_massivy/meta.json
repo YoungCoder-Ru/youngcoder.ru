@@ -1,0 +1,9 @@
+{
+	"title": "Одномерные массивы в языке Си",
+	"description": "Данный урок посвящён разбору основных приёмов работы с одномерным массиивом: создание массива, инициализация массива, изменение элементов массива.",
+	"keywords": "одномерные массивы, имя массива, доступ к элементу массива",
+	"article_number": 42,
+	"previous_article": "8/",
+	"next_article": "8/direktiva_define_i_konstanty",
+	"canonical_link": "https://youngcoder.ru/lessons/8/odnomernie_massivy"
+}
