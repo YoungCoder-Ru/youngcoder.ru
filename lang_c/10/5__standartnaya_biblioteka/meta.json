@@ -1,0 +1,9 @@
+{
+	"title": "Стандартная библиотека языка Си",
+	"description": "Рассматривается внутренняя архитектура языка  Си.",
+	"keywords": "модульное программирование, стандартная библиотека языка Си",
+	"article_number": 54,
+	"previous_article": "10/argumenty_funkcii",
+	"next_article": false,
+	"canonical_link": "https://youngcoder.ru/lessons/10/standartnaya_biblioteka"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Пользовательские функции в языке Си",
+	"description": "Язык Си позволяет программисту самостоятельно создавать необходимые ему функции. В данном уроке подробно изучим из каких частей состоят любые функции. Кроме того, научимся создавать свои функции.",
+	"keywords": "функции, процедурное программирование, как создать функцию, заголовок функции, тело функции, параметры функции",
+	"article_number": 50,
+	"previous_article": "10/spravochinik_po_funkciyam",
+	"next_article": "10/oblast_vidimosti_peremennyh",
+	"canonical_link": "https://youngcoder.ru/lessons/10/polzovatelskie_funkcii"
+}
