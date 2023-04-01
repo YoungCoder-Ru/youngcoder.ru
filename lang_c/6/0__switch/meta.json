@@ -1,0 +1,9 @@
+{
+	"title": "Оператор выбора (переключатель) switch",
+	"description": "Учимся использовать оператор выбора switch в своих программах, для организации ветвления. Изучаем синтаксис и нюансы работы(сквозное выполнение). Кроме того, затрагиваем использование оператора выхода break.",
+	"keywords": "оператор выбора, оператор switch, оператор break, сквозное выполнение",
+	"article_number": 32,
+	"previous_article": "6/",
+	"next_article": "6/otnosheniya_i_usloviya",
+	"canonical_link": "https://youngcoder.ru/lessons/6/switch"
+}

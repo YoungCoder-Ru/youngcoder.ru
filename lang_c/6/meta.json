@@ -1,8 +1,8 @@
 {
-	"title": "Урок 6: Ветвление",
-	"description": "",
-	"keywords": "",
-	"article_number": 66,
+	"title": "Урок 6: Операторы ветвления в языке Си",
+	"description": "В данном уроке даётся общее описание операторов языка Си (switch и if-else), которые могут использоваться в программах для реализации ветвления.",
+	"keywords": "оператор выбора, условный оператор, оператор if-else, оператор switch, ветвление",
+	"article_number": 31,
 	"previous_article": "5/strukturnoe_programmirovanie",
 	"next_article": "6/switch",
 	"canonical_link": "https://youngcoder.ru/lessons/6/",

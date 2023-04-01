@@ -1,0 +1,9 @@
+{
+	"title": "Передача аргументов в функцию",
+	"description": "Рассматриваются два основных способа передачи аргументов в функцию: передача по значению и передача по ссылке.",
+	"keywords": "передача по значению, передача по ссылке",
+	"article_number": 53,
+	"previous_article": "10/ukazateli",
+	"next_article": "10/standartnaya_biblioteka",
+	"canonical_link": "https://youngcoder.ru/lessons/10/argumenty_funkcii"
+}

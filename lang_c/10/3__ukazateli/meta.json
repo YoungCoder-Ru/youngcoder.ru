@@ -1,0 +1,9 @@
+{
+	"title": "Указатели в языке Си",
+	"description": "Указатели один из самых продвинутых инструкментов в языке Си. В уроке изучаются самые основные способы работы с указателями.",
+	"keywords": "указатели, разыменование указателя, объявление указателя, нулевой указатель",
+	"article_number": 52,
+	"previous_article": "10/oblast_vidimosti_peremennyh",
+	"next_article": "10/argumenty_funkcii",
+	"canonical_link": "https://youngcoder.ru/lessons/10/ukazateli"
+}

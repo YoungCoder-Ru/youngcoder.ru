@@ -1,7 +1,7 @@
 {
 	"title": "Урок 10: Функции",
-	"description": "",
-	"keywords": "",
+	"description": "Учимся создавать собственные функции.",
+	"keywords": "пользовательские функции в Си",
 	"article_number": 70,
 	"previous_article": "9/funkcii_raboty_so_strokami",
 	"next_article": "10/spravochinik_po_funkciyam",
