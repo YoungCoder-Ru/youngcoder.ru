@@ -158,7 +158,7 @@ for (int i = 0; ; )
 // или
 for (int j = 13; ; )
 // или
-for (int k = -100; ; )
+for (int k = 100; ; )
 // или
 for (int m = 255; ; )
 // или
@@ -176,7 +176,7 @@ for (int i = 0; i <= 100; )
 // или
 for (int j = 13; j > 0; )
 // или
-for (int k = -100; k != 0; )
+for (int k = 100; k != 0; )
 // или
 for (int m = 255; m >= 0; )
 // или
