@@ -1,9 +1,7 @@
 {
-	"title": "Условный оператор if--else",
-	"description": "В этом уроке рассматриваются две формы условного оператора if-else. Данный предназначен для того, чтобы управлять ходом выполнения вашей программы. Так же изучим составной оператор.",
-	"keywords": "условный оператор, оператор if-else",
-	"article_number": 34,
-	"previous_article": "6/otnosheniya_i_usloviya",
-	"next_article": "7/",
-	"canonical_link": "https://youngcoder.ru/lessons/6/operator_if_else"
+    "title": "Условный оператор if--else",
+    "description": "В этом уроке рассматриваются две формы условного оператора if-else. Данный предназначен для того, чтобы управлять ходом выполнения вашей программы. Так же изучим составной оператор.",
+    "keywords": "условный оператор, оператор if-else",
+    "article_number": 34,
+    "canonical_link": "https://youngcoder.ru/lessons/6/operator_if_else"
 }

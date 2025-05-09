@@ -1,9 +1,7 @@
 {
-	"title": "Цикл со счётчиком for",
-	"description": "Цикл for один из самых используемых и удобных в программировании. В этом уроке разбирается как работает эта констукция и как её использовать в программах.",
-	"keywords": "цикл for, цикл со счётчиком",
-	"article_number": 36,
-	"previous_article": "7/",
-	"next_article": "7/cikli_s_usloviem",
-	"canonical_link": "https://youngcoder.ru/lessons/7/cikl_for"
+    "title": "Цикл со счётчиком for",
+    "description": "Цикл for один из самых используемых и удобных в программировании. В этом уроке разбирается как работает эта констукция и как её использовать в программах.",
+    "keywords": "цикл for, цикл со счётчиком",
+    "article_number": 36,
+    "canonical_link": "https://youngcoder.ru/lessons/7/cikl_for"
 }

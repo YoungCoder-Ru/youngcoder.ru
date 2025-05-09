@@ -1,10 +1,8 @@
 {
-	"title": "Урок 4: Математика в Си",
-	"description": "",
-	"keywords": "",
-	"article_number": 64,
-	"previous_article": "3/formatnyi_vyvod_printf",
-	"next_article": "4/arifmeticheskie_deistviya",
-	"canonical_link": "https://youngcoder.ru/lessons/4/",
-	"has_glory_hall": true
+    "title": "Урок 4: Математика в Си",
+    "description": "",
+    "keywords": "",
+    "article_number": 64,
+    "canonical_link": "https://youngcoder.ru/lessons/4/",
+    "has_glory_hall": true
 }

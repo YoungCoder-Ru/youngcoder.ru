@@ -1,9 +1,7 @@
 {
-	"title": "Ввод данных в языке Си. Функция scanf",
-	"description": "В этом уроке вы изучите основы работы функции scanf. Она предназначена, чтобы считывать данные из стандартного потока ввода (клавиатуры).",
-	"keywords": "ввод данных в программу, функция scanf",
-	"article_number": 21,
-	"previous_article": "3/formatnyi_vyvod_printf",
-	"next_article": "4/",
-	"canonical_link": "https://youngcoder.ru/lessons/3/vvod_dannyh_scanf"
+    "title": "Ввод данных в языке Си. Функция scanf",
+    "description": "В этом уроке вы изучите основы работы функции scanf. Она предназначена, чтобы считывать данные из стандартного потока ввода (клавиатуры).",
+    "keywords": "ввод данных в программу, функция scanf",
+    "article_number": 21,
+    "canonical_link": "https://youngcoder.ru/lessons/3/vvod_dannyh_scanf"
 }

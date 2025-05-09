@@ -1,9 +1,7 @@
 {
-	"title": "Стандартные функции работы со строками. Заголовочный файл string.h",
-	"description": "В уроке разбираются самые простые стандартные функции работы со строками в языке Си: strlen, strcat, strcmp и функция strcpy.",
-	"keywords": "strlen, strcat, strcmp, strcpy, функции работы со строками, заголовочный файл string.h",
-	"article_number": 48,
-	"previous_article": "9/simvolnie_stroki_vvod_i_vyvod",
-	"next_article": "10/",
-	"canonical_link": "https://youngcoder.ru/lessons/9/funkcii_raboty_so_strokami"
+    "title": "Стандартные функции работы со строками. Заголовочный файл string.h",
+    "description": "В уроке разбираются самые простые стандартные функции работы со строками в языке Си: strlen, strcat, strcmp и функция strcpy.",
+    "keywords": "strlen, strcat, strcmp, strcpy, функции работы со строками, заголовочный файл string.h",
+    "article_number": 48,
+    "canonical_link": "https://youngcoder.ru/lessons/9/funkcii_raboty_so_strokami"
 }

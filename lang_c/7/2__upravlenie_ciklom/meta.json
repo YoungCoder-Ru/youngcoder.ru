@@ -1,9 +1,7 @@
 {
-	"title": "Операторы управления циклом. Зацикливание",
-	"description": "В уроке рассматриваются операторы управления циклами. Оператор break немедленно завершает цикл, а оператор continue прерывает текущую итерацию цикла.",
-	"keywords": "управление циклом, итерация, оператор break, оператора continue",
-	"article_number": 39,
-	"previous_article": "7/cikli_s_usloviem",
-	"next_article": "8/",
-	"canonical_link": "https://youngcoder.ru/lessons/7/upravlenie_ciklom"
+    "title": "Операторы управления циклом. Зацикливание",
+    "description": "В уроке рассматриваются операторы управления циклами. Оператор break немедленно завершает цикл, а оператор continue прерывает текущую итерацию цикла.",
+    "keywords": "управление циклом, итерация, оператор break, оператора continue",
+    "article_number": 39,
+    "canonical_link": "https://youngcoder.ru/lessons/7/upravlenie_ciklom"
 }

@@ -1,9 +1,7 @@
 {
-	"title": "Переменные в языке Си. Объявление переменных в Си.",
-	"description": "Переменные в языке Си. Учимся объявлять переменные различных типов.",
-	"keywords": "переменная, объявление переменной, создание переменной в си, как объявить переменную в Си",
-	"article_number": 11,
-	"previous_article": "2/tipy_dannyh",
-	"next_article": "2/operator_prisvaivaniya",
-	"canonical_link": "https://youngcoder.ru/lessons/2/objavlenie_peremennyh_v_c"
+    "title": "Переменные в языке Си. Объявление переменных в Си.",
+    "description": "Переменные в языке Си. Учимся объявлять переменные различных типов.",
+    "keywords": "переменная, объявление переменной, создание переменной в си, как объявить переменную в Си",
+    "article_number": 11,
+    "canonical_link": "https://youngcoder.ru/lessons/2/objavlenie_peremennyh_v_c"
 }

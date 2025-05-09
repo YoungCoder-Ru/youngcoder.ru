@@ -1,9 +1,7 @@
 {
-	"title": "Что такое типы данных и зачем они нужны?",
-	"description": "Базовые типы данных в языке Си. Основная информация о базовых типах данных, которая нужна новичку.",
-	"keywords": "переменная, тип переменной, типы данных,",
-	"article_number": 10,
-	"previous_article": "2/peremennaya_v_c",
-	"next_article": "2/objavlenie_peremennyh_v_c",
-	"canonical_link": "https://youngcoder.ru/lessons/2/tipy_dannyh"
+    "title": "Что такое типы данных и зачем они нужны?",
+    "description": "Базовые типы данных в языке Си. Основная информация о базовых типах данных, которая нужна новичку.",
+    "keywords": "переменная, тип переменной, типы данных,",
+    "article_number": 10,
+    "canonical_link": "https://youngcoder.ru/lessons/2/tipy_dannyh"
 }

@@ -1,9 +1,7 @@
 {
-	"title": "Ввод и вывод строк в языке Си",
-	"description": "Создание и инциализация строк в языке Си. Функции ввода и вывода строк.",
-	"keywords": "инициализация строки, ввод строки, вывод строки",
-	"article_number": 47,
-	"previous_article": "9/",
-	"next_article": "9/funkcii_raboty_so_strokami",
-	"canonical_link": "https://youngcoder.ru/lessons/9/simvolnie_stroki_vvod_i_vyvod"
+    "title": "Ввод и вывод строк в языке Си",
+    "description": "Создание и инциализация строк в языке Си. Функции ввода и вывода строк.",
+    "keywords": "инициализация строки, ввод строки, вывод строки",
+    "article_number": 47,
+    "canonical_link": "https://youngcoder.ru/lessons/9/simvolnie_stroki_vvod_i_vyvod"
 }
