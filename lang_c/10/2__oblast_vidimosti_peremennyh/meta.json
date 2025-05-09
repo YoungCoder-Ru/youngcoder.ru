@@ -1,0 +1,9 @@
+{
+	"title": "Область видимости переменных",
+	"description": "У каждой переменной есть две дополнительные характеристики: время жизни и область видимости. Т.е. хотя переменная и объявлена в программе, она может быть  недоступна в некоторых местах программы.",
+	"keywords": "время жизни переменной, область видимости переменной",
+	"article_number": 51,
+	"previous_article": "10/polzovatelskie_funkcii",
+	"next_article": "10/ukazateli",
+	"canonical_link": "https://youngcoder.ru/lessons/10/oblast_vidimosti_peremennyh"
+}

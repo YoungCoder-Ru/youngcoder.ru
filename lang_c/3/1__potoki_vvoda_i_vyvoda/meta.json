@@ -1,0 +1,9 @@
+{
+	"title": "Стандартные потоки ввода и вывода в языке Си",
+	"description": "В этом уроке обсуждаем как устроен ввода и вывода в языке Си. Стандартный поток ввода и стандартный поток вывода.",
+	"keywords": "стандартный поток ввода и вывод, stdin, stdout, ввод и вывод в языке си",
+	"article_number": 18,
+	"previous_article": "3/vzaimodeistvie_programm",
+	"next_article": "3/formatnyi_vyvod_printf",
+	"canonical_link": "https://youngcoder.ru/lessons/3/potoki_vvoda_i_vyvoda"
+}

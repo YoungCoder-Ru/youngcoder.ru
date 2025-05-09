@@ -1,0 +1,9 @@
+{
+	"title": "Двумерные массивы",
+	"description": "В уроке разбираются основные способы работы с двумерными массивами: объявление и инициализация массива, перебор значений массива, обращение к отдельному элементу.",
+	"keywords": "массивы, двумерные массивы",
+	"article_number": 44,
+	"previous_article": "8/direktiva_define_i_konstanty",
+	"next_article": "9/",
+	"canonical_link": "https://youngcoder.ru/lessons/8/dvumernie_massivy.php"
+}
