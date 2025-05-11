@@ -9,7 +9,7 @@
 
 Листинг 1.
 
-```
+```c
   char str[10];
   char str1[10] = {'Y','o','n','g','C','o','d','e','r','\0'};
   char str2[10] = "Hello!";
@@ -33,7 +33,7 @@
 
 Листинг 2.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -73,7 +73,7 @@ int main(void) {
 
 Листинг 3.
 
-```
+```c
 #include <stdio.h>
 int main(void) {
   char str[20];
@@ -96,7 +96,7 @@ int main(void) {
 
 Листинг 4.
 
-```
+```c
 #include <stdio.h>
 int main(void) {
   char str[10];
@@ -120,7 +120,7 @@ int main(void) {
 
 Листинг 5.
 
-```
+```c
 #include <stdio.h>
 int main(void) {
   char str[10];
@@ -152,7 +152,7 @@ int main(void) {
 
 Листинг 6.
 
-```
+```c
 #include <stdio.h>
 int main(void) {
   char str[10];

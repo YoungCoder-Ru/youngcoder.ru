@@ -8,7 +8,7 @@
 
 Листинг 1.
 
-```
+```c
 // первый вариант
 if (условное_выражение)
   оператор_1;
@@ -30,7 +30,7 @@ else
 
 Листинг 2.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -50,7 +50,7 @@ int main(void) {
 
 Листинг 3.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -68,7 +68,7 @@ int main(void) {
 
 Листинг 4.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -94,7 +94,7 @@ int main(void) {
 
 Листинг 5.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -122,7 +122,7 @@ int main(void) {
 
 Листинг 6.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -150,7 +150,7 @@ int main(void) {
 
 Листинг 7.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -181,7 +181,7 @@ int main(void) {
 
 Листинг 8.
 
-```
+```c
 if ( n > 0 )
   if ( а > b )
     z = a;
@@ -192,7 +192,7 @@ if ( n > 0 )
 Согласно нашему правилу, `else` относится к внутреннему (второму) `if`. Если хотим, чтобы `else` относился к внешнему (первому) `if`, то можно воспользоваться составным оператором.
 
 Листинг 9.
-```
+```c
 if ( n > 0 ) {
   if (а > b)
     z = a;

@@ -19,7 +19,7 @@
 
 
 Листинг 1. 
-```
+```c
 // комментарий
 #include <stdio.h>
 int main(void) {
@@ -29,7 +29,7 @@ int main(void) {
  ```
 
 Листинг 2. 
-```
+```c
 int main(void) {
   int a, b, c;
   
@@ -43,7 +43,7 @@ int main(void) {
 
 
 Листинг 3.
-```
+```c
 #include <stdio.h>
 int main(void) {
   FILE *fp;
@@ -64,7 +64,7 @@ int main(void) {
 
 
 Листинг 4. Главная функция любой программы на языке Си -- функция `main`.
-```
+```c
 int main(void) {
   return 0;
 }
@@ -110,7 +110,7 @@ int main(void) {
 			
 			
 Листинг 5. Программа «Hello, World»
-```
+```c
 #include <stdio.h>
 int main(void) {
   printf("Hello, World!\n");
@@ -123,7 +123,7 @@ int main(void) {
 
 
 Листинг 6. Директива include
-```
+```c
 #include <stdio.h>
 ```	
 
@@ -150,7 +150,7 @@ int main(void) {
 			
 			
 Листинг 7. Функция `printf()`
-```
+```c
 printf("Hello, World!\n");
 ```
 
@@ -169,7 +169,7 @@ printf("Hello, World!\n");
 
 
 Листинг 8. Стандартная заготовка для программ на языке Си.</p>
-```
+```c
 #include <stdio.h>
 int main(void) {
   return 0;

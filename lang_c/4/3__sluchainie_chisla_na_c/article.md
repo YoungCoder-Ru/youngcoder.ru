@@ -17,7 +17,7 @@
 
 Листинг 1.
 
-```
+```c
 #include <stdio.h>   // чтобы пользоваться функцией printf
 #include <stdlib.h>  // чтобы пользоваться функцией rand
 
@@ -42,7 +42,7 @@ int main(void) {
 
 Листинг 2.
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -67,7 +67,7 @@ int main(void) {
 
 Листинг 3.
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -101,7 +101,7 @@ int main(void) {
 
 Листинг 4.
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -131,7 +131,7 @@ int main(void) {
 
 Листинг 5.
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -152,7 +152,7 @@ int main(void) {
 
 Листинг 6.
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h> // чтобы использовать функцию time()

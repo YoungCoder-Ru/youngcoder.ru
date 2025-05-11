@@ -8,7 +8,7 @@
 
 Листинг 1.
 
-```
+```c
 >  -- больше
 >= -- больше либо равно
 <  -- меньше
@@ -21,7 +21,7 @@
 
 Листинг 2.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -55,7 +55,7 @@ int main(void) {
 Логических операций всего три штуки:
 
 Листинг 3.
-```
+```c
 !  - логическое НЕ
 && - логическое И
 || - логическое ИЛИ
@@ -66,7 +66,7 @@ int main(void) {
 
 Листинг 4.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -88,7 +88,7 @@ int main(void) {
 
 Листинг 5.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -108,7 +108,7 @@ int main(void) {
 
 Листинг 6.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {

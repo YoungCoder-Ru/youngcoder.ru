@@ -16,7 +16,7 @@
 
 Листинг 1.
 
-```
+```c
 #include <stdio.h>
 int main(void){
   int a = 7, b = 2;
@@ -43,7 +43,7 @@ int main(void){
 
 Листинг 2.
 
-```
+```c
 #include <stdio.h>
 int main(void){
   int a = 7, b = 2;
@@ -77,7 +77,7 @@ int main(void){
 
 Листинг 3.
 
-```
+```c
 #include <stdio.h>
 int main(void){
   int a = 7, b = 2;
@@ -96,7 +96,7 @@ int main(void){
 
 Листинг 4. Примеры явного преобразования типа
 
-```
+```c
 int a = 7, b;
 float g = 9.81,v;
 

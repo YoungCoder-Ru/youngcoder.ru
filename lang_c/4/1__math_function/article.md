@@ -25,7 +25,7 @@
 
 Листинг 1.
 
-```
+```c
 #include <stdio.h>
 #include <math.h> // подключаем math.h
 int main (void) {
@@ -45,7 +45,7 @@ int main (void) {
 
 Листинг 2.
 
-```
+```c
 #include <stdio.h>
 #include <math.h> // подключаем math.h
 int main (void) {

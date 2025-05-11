@@ -20,7 +20,7 @@
 
 Листинг 1.
 
-```
+```c
 int arr_int[8];
 double arr_float[11];
 float number[2000];
@@ -34,7 +34,7 @@ float number[2000];
 
 Листинг 2.
 
-```
+```c
 int grades[50], order[10];
 double prices[500];
 ```
@@ -43,7 +43,7 @@ double prices[500];
 
 Листинг 3.
 
-```
+```c
 int arr_int[5] = {2, 5, 5, 3, 4};
 double arr_float[11] = {1.2, -2.3, 4.5, 3.83, 0.01, -0.12, 44.2, 123.7, 23.44, -3.7, 7};
 ```
@@ -52,7 +52,7 @@ double arr_float[11] = {1.2, -2.3, 4.5, 3.83, 0.01, -0.12, 44.2, 123.7, 23.44, -
 
 Листинг 4.
 
-```
+```c
 double arr[50] = {0};
 ```
 
@@ -64,7 +64,7 @@ double arr[50] = {0};
 
 Листинг 5.
 
-```
+```c
 #include <stdio.h>
 
 int main(void){
@@ -80,7 +80,7 @@ int main(void){
 
 Листинг 6.
 
-```
+```c
 #include <stdio.h>
 
 int main(void){
@@ -104,7 +104,7 @@ int main(void){
 
 Листинг 7.
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

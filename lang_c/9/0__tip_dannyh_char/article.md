@@ -6,7 +6,7 @@
 
 Листинг 1.
 
-```
+```c
 #include <stdio.h>
 int main(void){
   char ch = 97;
@@ -28,7 +28,7 @@ int main(void){
 
 Листинг 2.
 
-```
+```c
 #include <stdio.h>
 int main(void){
   char ch = 10;

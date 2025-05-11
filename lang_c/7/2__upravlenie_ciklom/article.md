@@ -19,7 +19,7 @@
 
 Листинг 1.
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -99,7 +99,7 @@ int main(void) {
 
 Листинг 2.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -128,7 +128,7 @@ int main(void) {
 
 Листинг 3.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {

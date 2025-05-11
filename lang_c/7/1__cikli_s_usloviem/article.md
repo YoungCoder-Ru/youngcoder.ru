@@ -14,7 +14,7 @@
 
 Листинг 1.
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -51,7 +51,7 @@ int main(void) {
 
 Листинг 2.
 
-```
+```c
 while (условие)
   оператор;
 ```
@@ -69,7 +69,7 @@ while (условие)
 
 Листинг 3.
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -137,7 +137,7 @@ int main(void) {
 
 Листинг 4.
 
-```
+```c
 do
   оператор;
 while (условие);
@@ -155,7 +155,7 @@ while (условие);
 
 Листинг 5.
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

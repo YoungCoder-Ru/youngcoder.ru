@@ -37,7 +37,7 @@
 
 Листинг 1.
 
-```
+```c
 #include <stdio.h>
 int main(void){
 	printf("What is your name\?\n\tMy name\'s Bond! James Bond!\n");
@@ -70,7 +70,7 @@ int main(void){
 
 Листинг 2.
 
-```
+```c
 printf("%d\t%d\n%d",10,20,30);
 ```
 ![Вывод Листинг 2](./l2.png)
@@ -78,7 +78,7 @@ printf("%d\t%d\n%d",10,20,30);
 
 Листинг 3.
 
-```
+```c
 printf("pervoe slagaemoe: %d\nvtoroe slagaemoe:%d\nsumma: %d\n",10,20,30);
 ```
 ![Вывод Листинг 3](./l3.png)
@@ -86,7 +86,7 @@ printf("pervoe slagaemoe: %d\nvtoroe slagaemoe:%d\nsumma: %d\n",10,20,30);
 
 Листинг 4.
 
-```
+```c
 printf("%d + %d = %d\n", 20, 10, 20+10);
 ```
 
@@ -95,7 +95,7 @@ printf("%d + %d = %d\n", 20, 10, 20+10);
 
 Листинг 5.
 
-```
+```c
 printf("%d + %d %c %d\n", 10, 20, '=', 20+10);
 ```
 ![Вывод Листинг 5](./l5.png)
@@ -117,7 +117,7 @@ printf("%d + %d %c %d\n", 10, 20, '=', 20+10);
 
 Листинг 6.
 
-```
+```c
 #include <stdio.h>
 int main(void){
 	int z = 4;
@@ -135,7 +135,7 @@ int main(void){
 
 Листинг 7.
 
-```
+```c
 #include <stdio.h>
 int main(void){
   int a = 25;
@@ -171,7 +171,7 @@ int main(void){
 
 Листинг 8.
 
-```
+```c
 #include <stdio.h>
 int main(void){
   int a=777;
@@ -219,7 +219,7 @@ return 0;
 
 Листинг 9.
 
-```
+```c
 #include <stdio.h>
 int main(void) {
   int a, b, res;

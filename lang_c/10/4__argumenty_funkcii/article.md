@@ -6,7 +6,7 @@
 
 Листинг 1.
 
-```
+```c
 #include <stdio.h>
 
 void swap(int a, int b){
@@ -36,7 +36,7 @@ int main(void) {
 
 Листинг 2.
 
-```
+```c
 #include <stdio.h>
 
 // функция swap принимает два указателя на целые числа
@@ -82,7 +82,7 @@ int main(void) {
 
 Листинг 3.
 
-```
+```c
 #include <stdio.h>
 
 void print_arr(int arr[], int n){
@@ -121,7 +121,7 @@ int main(void){
 
 Листинг 4.
 
-```
+```c
 void print_arr(int arr[], int n){
   //...
 }

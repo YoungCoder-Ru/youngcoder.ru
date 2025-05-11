@@ -19,7 +19,7 @@
 
 Листинг 1.
 
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -48,7 +48,7 @@ int main(void) {
 
 Листинг 2.
 
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -91,7 +91,7 @@ int main(void) {
 
 Листинг 3.
 
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -127,7 +127,7 @@ int main(void) {
 
 Листинг 4.
 
-```
+```c
 #include <stdio.h>
 #include <string.h>
 

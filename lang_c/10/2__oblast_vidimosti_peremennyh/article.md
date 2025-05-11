@@ -6,7 +6,7 @@
 
 Листинг 1.
 
-```
+```c
 #include <stdio.h>
 
 int max_num(int a, int b){
@@ -35,7 +35,7 @@ int main(void) {
 
 Листинг 2.
 
-```
+```c
 #include <stdio.h>
 
 void max_num(int a, int b){
@@ -64,7 +64,7 @@ int main(void) {
 
 Листинг 3.
 
-```
+```c
 #include <stdio.h>
 
 int m = 0;
@@ -97,7 +97,7 @@ int main(void) {
 
 Листинг 4.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -129,7 +129,7 @@ int main(void) {
 
 Листинг 5.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
