@@ -3,8 +3,9 @@
 ## Видео-инструкция по установке IDE Code::Blocks
 
 На видео показан процесс установки среды разработки Code::Blocks.
+
 <div class="lessonVideo">
-	<iframe src="https://www.youtube.com/embed/7UWR3U3WuPw?rel=0"  allowfullscreen></iframe>
+	<iframe src="https://www.youtube.com/embed/7UWR3U3WuPw?rel=0" allowfullscreen></iframe>
 </div>
 
 ## Текстовая инструкция по установке Code::Blocks
