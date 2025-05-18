@@ -1,7 +1,6 @@
 {
-    "title": "Структура программ на языке Си",
-    "description": "Все программы на языке Си имеют общую структуру. В данном уроке мы разбрёмся с этой структурой.",
-    "keywords": "структура программы на си",
-    "article_number": 8,
-    "canonical_link": "https://youngcoder.ru/lessons/1/structura_programm_na_c"
+  "title": "Структура программ на языке Си",
+  "description": "Все программы на языке Си имеют общую структуру. В данном уроке мы разбрёмся с этой структурой.",
+  "keywords": "структура программы на си",
+  "canonical_link": "https://youngcoder.ru/lessons/1/structura_programm_na_c"
 }

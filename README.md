@@ -23,7 +23,6 @@
 	"title": "Заголовок заметки",
 	"description": "Описание для meta-тега description",
 	"keywords": "Ключевые слова для meta-тега keywords",
-	"article_number": 1, // глобальный id заметки для ассоциации с комментариями, можно поставить 0
 	"canonical_link": "https://youngcoder.ru/lessons/1/" // канонический адрес страницы с заметкой 
 	"has_glory_hall": true/false // есть ли для урока Зал славы или нет?
 }
@@ -46,7 +45,6 @@
 	"title": "Заголовок статьи",
 	"description": "Описание для meta-тега description",
 	"keywords": "Ключевые слова для meta-тега keywords",
-	"article_number": 1, // глобальный id статьи для ассоциации с комментариями, можно поставить 0
 	"canonical_link": "https://youngcoder.ru/lessons/1/programming" // канонический адрес страницы с заметкой 
 }
 ```

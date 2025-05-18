@@ -1,8 +1,7 @@
 {
-    "title": "Урок 2: Переменные и типы данных",
-    "description": "Содержание второго урока, посвященного понятиям переменная и тип данных",
-    "keywords": "переменная, тип данных",
-    "article_number": 62,
-    "canonical_link": "https://youngcoder.ru/lessons/2/",
-    "has_glory_hall": true
+  "title": "Урок 2: Переменные и типы данных",
+  "description": "Содержание второго урока, посвященного понятиям переменная и тип данных",
+  "keywords": "переменная, тип данных",
+  "canonical_link": "https://youngcoder.ru/lessons/2/",
+  "has_glory_hall": true
 }

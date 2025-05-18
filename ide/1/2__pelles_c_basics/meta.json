@@ -1,7 +1,6 @@
 {
-    "title": "Основы работы в IDE Pelles C",
-    "description": "Пишем первую программу на С в IDE Pelles C. Изучаем основные команды",
-    "keywords": "IDE, Palles C,  первая программа на С, Hello world на C, как скомпилровать программу в Pelles C",
-    "article_number": 7,
-    "canonical_link": "https://youngcoder.ru/lessons/ide/1/pelles_c_basics"
+  "title": "Основы работы в IDE Pelles C",
+  "description": "Пишем первую программу на С в IDE Pelles C. Изучаем основные команды",
+  "keywords": "IDE, Palles C,  первая программа на С, Hello world на C, как скомпилровать программу в Pelles C",
+  "canonical_link": "https://youngcoder.ru/lessons/ide/1/pelles_c_basics"
 }

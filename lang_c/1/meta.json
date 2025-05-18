@@ -1,8 +1,7 @@
 {
-    "title": "Урок 1: Первая программа на Си",
-    "description": "Содержание первого урока, посвященного написанию первой программы на языке Си.",
-    "keywords": "Первая программа на Си, Hello World, programming language С",
-    "article_number": 61,
-    "canonical_link": "https://youngcoder.ru/lessons/1/",
-    "has_glory_hall": true
+  "title": "Урок 1: Первая программа на Си",
+  "description": "Содержание первого урока, посвященного написанию первой программы на языке Си.",
+  "keywords": "Первая программа на Си, Hello World, programming language С",
+  "canonical_link": "https://youngcoder.ru/lessons/1/",
+  "has_glory_hall": true
 }

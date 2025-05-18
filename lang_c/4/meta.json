@@ -1,8 +1,7 @@
 {
-    "title": "Урок 4: Математика в Си",
-    "description": "",
-    "keywords": "",
-    "article_number": 64,
-    "canonical_link": "https://youngcoder.ru/lessons/4/",
-    "has_glory_hall": true
+  "title": "Урок 4: Математика в Си",
+  "description": "",
+  "keywords": "",
+  "canonical_link": "https://youngcoder.ru/lessons/4/",
+  "has_glory_hall": false
 }

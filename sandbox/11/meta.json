@@ -1,8 +1,7 @@
 {
-    "title": "Урок 11: Отладка программ",
-    "description": "Узнаем, как искать ошибки в программах и исправлять их.",
-    "keywords": "отладка, поиск ошибок, отладка программ на Си",
-    "article_number": 61,
-    "canonical_link": "https://youngcoder.ru/lessons/11/",
-    "has_glory_hall": false
+  "title": "Урок 11: Отладка программ",
+  "description": "Узнаем, как искать ошибки в программах и исправлять их.",
+  "keywords": "отладка, поиск ошибок, отладка программ на Си",
+  "canonical_link": "https://youngcoder.ru/lessons/11/",
+  "has_glory_hall": false
 }

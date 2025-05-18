@@ -1,8 +1,7 @@
 {
-    "title": "Урок 10: Функции",
-    "description": "Учимся создавать собственные функции.",
-    "keywords": "пользовательские функции в Си",
-    "article_number": 70,
-    "canonical_link": "https://youngcoder.ru/lessons/10/",
-    "has_glory_hall": true
+  "title": "Урок 10: Функции",
+  "description": "Учимся создавать собственные функции.",
+  "keywords": "пользовательские функции в Си",
+  "canonical_link": "https://youngcoder.ru/lessons/10/",
+  "has_glory_hall": true
 }

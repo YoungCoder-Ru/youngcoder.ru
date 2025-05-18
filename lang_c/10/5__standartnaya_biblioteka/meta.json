@@ -1,7 +1,6 @@
 {
-    "title": "Стандартная библиотека языка Си",
-    "description": "Рассматривается внутренняя архитектура языка  Си.",
-    "keywords": "модульное программирование, стандартная библиотека языка Си",
-    "article_number": 54,
-    "canonical_link": "https://youngcoder.ru/lessons/10/standartnaya_biblioteka"
+  "title": "Стандартная библиотека языка Си",
+  "description": "Рассматривается внутренняя архитектура языка  Си.",
+  "keywords": "модульное программирование, стандартная библиотека языка Си",
+  "canonical_link": "https://youngcoder.ru/lessons/10/standartnaya_biblioteka"
 }

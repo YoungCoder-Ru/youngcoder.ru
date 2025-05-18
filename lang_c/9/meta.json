@@ -1,8 +1,7 @@
 {
-    "title": "Урок 9: Строки в языке Си",
-    "description": "Строки в языке Си это обычные одномерные массивы типа char.",
-    "keywords": "пример на использование строк",
-    "article_number": 45,
-    "canonical_link": "https://youngcoder.ru/lessons/9/",
-    "has_glory_hall": true
+  "title": "Урок 9: Строки в языке Си",
+  "description": "Строки в языке Си это обычные одномерные массивы типа char.",
+  "keywords": "пример на использование строк",
+  "canonical_link": "https://youngcoder.ru/lessons/9/",
+  "has_glory_hall": true
 }

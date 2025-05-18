@@ -1,7 +1,6 @@
 {
-    "title": "Основные команды IDE Code::Blocks",
-    "description": "Пишем первую программу на С в IDE Code::Blocks. Изучаем основные команды",
-    "keywords": "IDE, Code::Blocks,  первая программа на С, Hello world на C, как скомпилровать программу в Code::Blocks",
-    "article_number": 60,
-    "canonical_link": "https://youngcoder.ru/lessons/ide/2/code_blocks_basics"
+  "title": "Основные команды IDE Code::Blocks",
+  "description": "Пишем первую программу на С в IDE Code::Blocks. Изучаем основные команды",
+  "keywords": "IDE, Code::Blocks,  первая программа на С, Hello world на C, как скомпилровать программу в Code::Blocks",
+  "canonical_link": "https://youngcoder.ru/lessons/ide/2/code_blocks_basics"
 }

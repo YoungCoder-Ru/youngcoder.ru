@@ -1,7 +1,6 @@
 {
-    "title": "Именованные константы в Си. Директива define",
-    "description": "В этом уроке изучается синтаксис директивы препроцессора define. На примере показывается её использование для создания именованных констант.",
-    "keywords": "define, именованные константы",
-    "article_number": 43,
-    "canonical_link": "https://youngcoder.ru/lessons/8/direktiva_define_i_konstanty"
+  "title": "Именованные константы в Си. Директива define",
+  "description": "В этом уроке изучается синтаксис директивы препроцессора define. На примере показывается её использование для создания именованных констант.",
+  "keywords": "define, именованные константы",
+  "canonical_link": "https://youngcoder.ru/lessons/8/direktiva_define_i_konstanty"
 }
