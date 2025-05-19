@@ -1,16 +1,22 @@
 name: Deploy to YoungcoderFTP  
 on:  
   push:  
-    branches: [ main ]  # Триггер на push в ветку main  
+    branches: [ main ]  
+  pull_request:  
+    types: [closed]  
+    branches: [ main ]  
 
 jobs:  
   deploy:  
-    if: github.actor == 'KaDeaT'
-    runs-on: ubuntu-latest  # Используем последний Ubuntu  
+    # Только для твоих пушей или мерженых PR  
+    if: |  
+      (github.event_name == 'push' && github.actor == 'KaDeaT') ||  
+      (github.event_name == 'pull_request' && github.event.pull_request.merged == true)  
+    runs-on: ubuntu-latest  
 
     steps:  
       - name: Checkout code  
-        uses: actions/checkout@v4  # Клонируем репозиторий  
+        uses: actions/checkout@v4  
 
       - name: Upload ./lang_c/ files via FTP  
         uses: SamKirkland/FTP-Deploy-Action@4.3.0  # Готовый Action для FTP  
@@ -18,16 +24,16 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}  
           username: ${{ secrets.FTP_USERNAME }}  
           password: ${{ secrets.FTP_PASSWORD }}  
-          local-dir: ./lang_c/  # Папка с файлами для загрузки  
-          server-dir: /lang_c/  # Папка на хостинге 
-          dangerous-clean-slate: false 
+          local-dir: ./lang_c/  
+          server-dir: /lang_c/  
+          dangerous-clean-slate: false  
 
       - name: Upload ./ide/ files via FTP  
-        uses: SamKirkland/FTP-Deploy-Action@4.3.0  # Готовый Action для FTP  
+        uses: SamKirkland/FTP-Deploy-Action@4.3.0  
         with:  
           server: ${{ secrets.FTP_SERVER }}  
           username: ${{ secrets.FTP_USERNAME }}  
           password: ${{ secrets.FTP_PASSWORD }}  
-          local-dir: ./ide/  # Папка с файлами для загрузки  
-          server-dir: /ide/  # Папка на хостинге 
-          dangerous-clean-slate: false 
+          local-dir: ./ide/  
+          server-dir: /ide/  
+          dangerous-clean-slate: false  
