@@ -3,5 +3,5 @@
   "description": "Строки в языке Си это обычные одномерные массивы типа char.",
   "keywords": "пример на использование строк",
   "canonical_link": "https://youngcoder.ru/lessons/9/",
-  "has_glory_hall": true
+  "has_glory_hall": false
 }

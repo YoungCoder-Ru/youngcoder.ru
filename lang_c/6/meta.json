@@ -3,5 +3,5 @@
   "description": "В данном уроке даётся общее описание операторов языка Си (switch и if-else), которые могут использоваться в программах для реализации ветвления.",
   "keywords": "оператор выбора, условный оператор, оператор if-else, оператор switch, ветвление",
   "canonical_link": "https://youngcoder.ru/lessons/6/",
-  "has_glory_hall": true
+  "has_glory_hall": false
 }
