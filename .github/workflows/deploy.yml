@@ -19,7 +19,7 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}  
           password: ${{ secrets.FTP_PASSWORD }}  
           local-dir: ./lang_c/  # Папка с файлами для загрузки  
-          server-dir: /  # Папка на хостинге 
+          server-dir: /lang_c/  # Папка на хостинге 
           dangerous-clean-slate: false 
 
       - name: Upload ./ide/ files via FTP  
@@ -29,5 +29,5 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}  
           password: ${{ secrets.FTP_PASSWORD }}  
           local-dir: ./ide/  # Папка с файлами для загрузки  
-          server-dir: /  # Папка на хостинге 
+          server-dir: /ide/  # Папка на хостинге 
           dangerous-clean-slate: false 
