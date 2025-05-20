@@ -160,3 +160,25 @@ int main(void) {
 Прикрепляемая картинка обязательно должна находиться в той же директории, что и сама заметка.
 ### Примеры:
 ![Фрагмент программы браузера Firefox](./kod_programmy.png)
+
+
+## Видео
+
+iframe с видео оборачиваем в div с классом lessonVideo.
+
+Пример:
+```html
+<div class="lessonVideo">
+  <iframe src="https://www.youtube.com/embed/Gx6KUtmRmHs"  allowfullscreen></iframe>
+</div>
+```
+
+## Окошко Stepik
+
+iframe с уроком оборачиваем в div с классом lessonStepikBlock
+
+```html
+<div class="lessonStepikBlock">
+    <iframe src="https://stepik.org/lesson/13977/step/1"></iframe>
+</div>
+```
