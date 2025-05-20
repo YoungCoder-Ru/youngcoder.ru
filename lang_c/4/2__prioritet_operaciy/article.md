@@ -37,4 +37,6 @@
 
 И небольшой видео-фрагмент, в котором я попытался на простом примере показать, как можно поступать при записи сложных математических выражений.
 
-<iframe class="video" src="https://www.youtube.com/embed/Gx6KUtmRmHs"  allowfullscreen></iframe>
+<div class="lessonVideo">
+    <iframe src="https://www.youtube.com/embed/Gx6KUtmRmHs"  allowfullscreen></iframe>
+</div>
