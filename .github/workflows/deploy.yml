@@ -26,7 +26,8 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}  
           local-dir: ./lang_c/  
           server-dir: /lang_c/  
-          dangerous-clean-slate: false  
+          dangerous-clean-slate: false
+          git-ftp: true
 
       - name: Upload ./ide/ files via FTP  
         uses: SamKirkland/FTP-Deploy-Action@4.3.0  
@@ -36,4 +37,5 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}  
           local-dir: ./ide/  
           server-dir: /ide/  
-          dangerous-clean-slate: false  
+          dangerous-clean-slate: false
+          git-ftp: true
