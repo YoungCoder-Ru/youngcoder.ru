@@ -1,1 +1,4 @@
 /sandbox/666/
+
+*.tmp
+*.log
