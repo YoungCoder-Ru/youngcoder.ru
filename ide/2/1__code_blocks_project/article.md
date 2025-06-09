@@ -10,6 +10,9 @@
 	<iframe src="https://www.youtube.com/embed/ji0UsiXbaOE?rel=0"  allowfullscreen></iframe>
 </div>
 
+Зеркало <a href="https://rutube.ru/video/c47d0ca5e49d00e7033bc319e72ebc53/?r=wd">на RuTube</a>, <a href="https://vkvideo.ru/video-31218664_456239027">на VK.Видео</a>
+
+
 ## Создание консольного проекта на Си в IDE Code::Blocks. Текстовая инструкция.
 
 **1 шаг**

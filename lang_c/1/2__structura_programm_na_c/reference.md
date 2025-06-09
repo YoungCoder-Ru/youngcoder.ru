@@ -4,6 +4,7 @@
 <div class="lessonVideo">
 	<iframe src="https://www.youtube.com/embed/kfkVMu8k2As" allowfullscreen></iframe>
 </div>
+Зеркало <a href="https://rutube.ru/video/e681db014347ffe1b17a8b674f932262/?r=wd">на RuTube</a>, <a href="https://vkvideo.ru/video-31218664_456239033">на VK.Видео</a>
 
 2. [Исходный код](https://github.com/YoungCoder-Ru/examples/blob/main/1/march8.c) программы-открытки к 8 марта
 

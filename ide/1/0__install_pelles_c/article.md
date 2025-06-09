@@ -12,6 +12,8 @@
 	<iframe src="https://www.youtube.com/embed/slvI-8XbLLU?rel=0"  allowfullscreen></iframe>
 </div>
 
+Зеркало <a href="https://rutube.ru/video/e587cf6e016bfbc5d7a6944bf5ef1281/?r=wd">на RuTube</a>, <a href="https://vkvideo.ru/video-31218664_456239030">на VK.Видео</a>
+
 
 ## Текстовая инструкция по установке IDE Pelles C.
 

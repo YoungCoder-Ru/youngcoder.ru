@@ -9,3 +9,5 @@
 <div class="lessonVideo">
 	<iframe src="https://www.youtube.com/embed/n1F_MfLRlX0?si=nG4dUkXf1O3PRh5A" allowfullscreen></iframe>
 </div>
+
+Зеркало <a href="https://rutube.ru/video/4d6aa787f23b8a59777d59248cd82e7f/">на RuTube</a>

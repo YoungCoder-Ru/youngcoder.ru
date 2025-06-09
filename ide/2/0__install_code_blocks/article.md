@@ -8,6 +8,9 @@
 	<iframe src="https://www.youtube.com/embed/7UWR3U3WuPw?rel=0" allowfullscreen></iframe>
 </div>
 
+Зеркало <a href="https://rutube.ru/video/67f58bb5aba0ff03df8be1006d5af1de/?r=wd">на RuTube</a>, <a href="https://vkvideo.ru/video-31218664_456239029">на VK.Видео</a>
+
+
 ## Текстовая инструкция по установке Code::Blocks
 
 **1 шаг**

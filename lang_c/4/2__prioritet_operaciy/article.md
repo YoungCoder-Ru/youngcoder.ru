@@ -40,3 +40,5 @@
 <div class="lessonVideo">
     <iframe src="https://www.youtube.com/embed/Gx6KUtmRmHs"  allowfullscreen></iframe>
 </div>
+
+Зеркало <a href="https://rutube.ru/video/5c9aa7607179e9bfa948a5e0951baf40/?r=wd">на RuTube</a>, <a href="https://vkvideo.ru/video-31218664_456239034">на VK.Видео</a>

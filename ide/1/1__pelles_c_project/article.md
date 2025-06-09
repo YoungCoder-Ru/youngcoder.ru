@@ -10,6 +10,9 @@
 	<iframe src="https://www.youtube.com/embed/xQfba8vRMvA?rel=0"  allowfullscreen></iframe>
 </div>
 
+Зеркало <a href="https://rutube.ru/video/7ab4a5a763a3a677637beaaea5a2032c/?r=wd">на RuTube</a>, <a href="https://vkvideo.ru/video-31218664_456239028">на VK.Видео</a>
+
+
 ## Создание проекта в IDE Pelles C. Текстовая инструкция.
 
 Инструкция по созданию консольного проекта в IDE Pelles C v.13.00.
