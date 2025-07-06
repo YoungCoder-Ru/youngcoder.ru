@@ -1,7 +1,7 @@
 {
-  "title": "Урок N: ",
-  "description": "",
-  "keywords": "",
-  "canonical_link": "https://youngcoder.ru/lessons/N/",
-  "has_glory_hall": true
+  "title": "Урок(?): Базовые принципы чистого кода",
+  "description": "В данном уроке (?) рассматриваются основные принципы чистого кода, которые помогут вам писать более читаемый, понятный и легко поддерживаемый код.",
+  "keywords": "Чистый код, рефакторинг, красивый код, имена переменных",
+  "canonical_link": "https://youngcoder.ru/man/chistyi_kod",
+  "has_glory_hall": false
 }
