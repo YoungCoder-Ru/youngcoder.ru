@@ -41,7 +41,8 @@ echo $n;
 ```c
 #include <stdio.h>
 
-int main(void){
+int main(void)
+{
         int n = 10;
 
         printf(n); // Ошибка
