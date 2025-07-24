@@ -81,3 +81,5 @@ int main(void)
 <div class="lessonVideo">
 	<iframe src="https://www.youtube.com/embed/u3HeKlkF_PM" allowfullscreen></iframe>
 </div>
+
+Зеркало <a href="https://rutube.ru/video/73a21fed1f2a45dc3978ddd43f111e63/?r=wd">на RuTube</a>, <a href="https://vkvideo.ru/video-31218664_456239038">на VK.Видео</a>
