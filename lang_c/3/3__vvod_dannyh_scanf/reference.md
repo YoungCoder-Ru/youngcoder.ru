@@ -13,7 +13,7 @@
 int main(void)
 {
         int age, height, weight;
-        double bmr_male, bov_female;
+        double bmr_male, bmr_female;
 
         printf("Enter your age (in years, integer number):\n");
         scanf("%d", &age); // считываем целое значение в переменную age
