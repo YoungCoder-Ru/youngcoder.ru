@@ -396,7 +396,7 @@ int main(void){
       т.к. каждому делителю < sqrt(...) соответствует делитель > sqrt(...).
       Например, для числа 100: делителю 5 < sqrt(100) соответствует делитель 20 > sqrt(100)
     */
-    for (int divisor = minimal_divisor; divisor<= sqrt(number_to_check); divisor++) {
+    for (int divisor = minimal_divisor; divisor * divisor <= number_to_check; divisor++) {
         if (number_to_check % divisor == 0) {
             is_prime = 0;
             break;
