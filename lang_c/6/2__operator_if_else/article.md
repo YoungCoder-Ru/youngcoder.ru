@@ -316,9 +316,9 @@ int main(void)
         } else { 
                 // ещё один вложенный if-else
                 if (y > 0) {
-                        printf("%d\n", 3);
-                } else {
                         printf("%d\n", 2);
+                } else {
+                        printf("%d\n", 3);
                 }
         }
 
