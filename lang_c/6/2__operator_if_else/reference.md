@@ -26,8 +26,8 @@ switch (answer) {
 // аналог на if-else
 if (answer == 'B' || answer == 'b') {
         printf("GOOD!\n");
-} else if (answer == 'A' || answer == 'B' || answer == 'C' ||
-           answer == 'a' || answer == 'b' || answer == 'c') {
+} else if (answer == 'A' || answer == 'D' || answer == 'C' ||
+           answer == 'a' || answer == 'd' || answer == 'c') {
         printf("BAD!\n");
 } else {
         printf("ERROR!\n");
