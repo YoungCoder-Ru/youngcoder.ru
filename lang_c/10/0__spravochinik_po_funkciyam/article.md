@@ -17,7 +17,7 @@
 > ```c
 > #include <stdlib.h>
 > #include <stdio.h>
->main () {
+> main () {
 >   int numbr, absval;
 >   numbr = -3;
 >   absval= abs(numbr);
