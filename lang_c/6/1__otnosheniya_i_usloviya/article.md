@@ -142,8 +142,7 @@ int main(void)
         printf("c = %.16f\n", c);
 
         // Точное сравнение
-        printf("accurately: a == c? %d\n", a == b);
-
+        printf("accurately: a == c? %d\n", a == c);
 
         // Приблизительное сравнение с погрешностью
         double diff = fabs(a - c);  // Находим разницу по модулю
