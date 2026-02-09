@@ -44,7 +44,7 @@ int main(void)
                       printf("Result: %d\n", value);
                       break;
                 case 0:
-                      printf("Good bye!\n");
+                      printf("\nGood bye!\n");
                       break;
                 default:
                       printf("Error! Try again...\n");
@@ -141,7 +141,7 @@ int main(void)
                 scanf("%d", &control);
         }
         
-        printf("Good bye!\n");
+        printf("\nGood bye!\n");
 
         return 0;
 }
@@ -305,7 +305,7 @@ int main(void)
                 
                 switch (control) {
                         case 0:
-                                printf("Good bye!\n");
+                                printf("\nGood bye!\n");
                                 break;
                         case 1:
                                 value = 1 + rand() % 6;
@@ -457,7 +457,7 @@ int main(void)
                 
         switch (control) {
                 case 0:
-                        printf("Good bye!\n");
+                        printf("\nGood bye!\n");
                         break;
                 case 1:
                         value = 1 + rand() % 6;
@@ -474,7 +474,7 @@ int main(void)
                 
                 switch (control) {
                         case 0:
-                                printf("Good bye!\n");
+                                printf("\nGood bye!\n");
                                 break;
                         case 1:
                                 value = 1 + rand() % 6;
@@ -543,7 +543,7 @@ int main(void)
         int count = 0;
 
         do {
-                printf("hello, friend!\n");
+                printf("hello, friend...\n");
                 count++;
         } while (count < 5);
 
@@ -560,7 +560,7 @@ int main(void)
 int main(void)
 {
         for (int count = 0; count < 5; count++) {
-                printf("hello, friend!\n");
+                printf("hello, friend...\n");
         }
 
         return 0;
@@ -804,20 +804,19 @@ int main(void)
                 
                 switch (control) {
                         case 0: 
+                                printf("\nGood bye!\n");
                                 printf("Total number of die rolls: %d\n", total_runs);
                                 printf("Sum of all die rolls: %d\n", sum_results);
-                                printf("Good bye!\n");
                                 break;
                         case 1:
                                 value = 1 + rand() % 6;
+                                printf("Result: %d\n", value);
 
                                 // увеличиваем кол-во бросков на 1
                                 total_runs += 1;        
 
                                 // добавляем значение к сумме очков
                                 sum_results += value; 
-
-                                printf("Result: %d\n", value);
                                 break;
                         default:
                                 printf("Error! Try again...\n");
