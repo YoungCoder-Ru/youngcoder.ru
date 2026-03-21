@@ -567,7 +567,7 @@ int main(void)
 }
 ```
 
-Думаю, что никаких дополнительных пояснения эти программы не требуют.
+Думаю, что никаких дополнительных пояснений эти программы не требуют.
 
 > **Пример 2.** Программа должна последовательно считывать и сразу выводить на экран числа, вводимые пользователем, до тех пор, пока он не введёт число `0`. Предполагаем, что пользователь может первым же числом ввести `0`.
 
@@ -667,13 +667,13 @@ int main(void)
         int CORRECT_MIN_AGE = 12, CORRECT_MAX_AGE = 130;
         int age;
 
-        printf("Enter your age (number between %d and %d: ", 
+        printf("Enter your age (number between %d and %d): ", 
                CORRECT_MIN_AGE,
                CORRECT_MAX_AGE);
         scanf("%d", &age);
 
         while (age < CORRECT_MIN_AGE || age > CORRECT_MAX_AGE) {
-                printf("Enter your age (number between %d and %d: ",    
+                printf("Enter your age (number between %d and %d): ",    
                        CORRECT_MIN_AGE, 
                        CORRECT_MAX_AGE);
                 scanf("%d", &age);
