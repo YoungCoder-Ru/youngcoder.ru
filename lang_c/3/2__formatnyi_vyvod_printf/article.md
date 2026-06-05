@@ -296,7 +296,7 @@ int main(void)
         double pi = 3.1415926;
         
         printf("f\t %f\n", pi);
-        //%f:   3.141593
+        //%f   3.141593
 
         printf(".5f\t %.5f\n", pi);
         //%.5f  3.14159
