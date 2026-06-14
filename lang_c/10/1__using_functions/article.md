@@ -228,7 +228,7 @@ int main(void)
 
         int control;
         int value = 0,
-            DICE_SIZE = 6,         // количество граней у кубика
+            DICE_SIZE = 6,      // количество граней у кубика
             total_runs = 0,     // количество бросков
             sum_results = 0;    // сумма очков за всю игру
         
@@ -311,7 +311,7 @@ void show_exit_screen(void);
 
 int generate_dice_value(void);
 
-int DICE_SIZE = 6,     // количество граней у кубика
+int DICE_SIZE = 6,  // количество граней у кубика
     total_runs,     // количество бросков
     sum_results;    // сумма очков за всю игру
 
@@ -398,7 +398,7 @@ void show_exit_screen(void)
 int main(void)
 {
     const int players = 2;
-    players = 3;   //  ОШИБКА! Пытаемся изменить переменную с квалификатором const
+    players = 3;  // ОШИБКА! Пытаемся изменить переменную с квалификатором const
     
     return 0;
 }
@@ -420,9 +420,9 @@ void show_exit_screen(void);
 int generate_dice_value(void);
 
 
-const int DICE_SIZE = 6;     // количество граней у кубика
-int total_runs,     // количество бросков
-    sum_results;    // сумма очков за всю игру
+const int DICE_SIZE = 6;  // количество граней у кубика
+int total_runs,           // количество бросков
+    sum_results;          // сумма очков за всю игру
 
 int main(void)
 {
@@ -508,11 +508,11 @@ int generate_dice_value(int dice_size);
 
 int main(void)
 {       
-        const int DICE_SIZE = 6;   // количество граней у кубика      
-        int total_runs = 0,     // количество бросков
-            sum_results = 0,    // сумма очков за всю игру
-            cmd,                // текущая команда 
-            value;              // текущее значение на кубике
+        const int DICE_SIZE = 6;  // количество граней у кубика      
+        int total_runs = 0,       // количество бросков
+            sum_results = 0,      // сумма очков за всю игру
+            cmd,                  // текущая команда 
+            value;                // текущее значение на кубике
 
         srand(time(NULL));
         show_intro_screen();
