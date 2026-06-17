@@ -1,5 +1,11 @@
 ## Практика
 
+- Чтобы закрепить в памяти материал урока, пройдите мой [дополнительный мини-урок по указателям на Stepik](https://stepik.org/lesson/2434437/step/1)
+
+<div class="lessonStepikBlock">
+    <iframe src="https://stepik.org/lesson/2434437/step/1"></iframe>
+</div>
+
 - Решите [задачи с автоматической проверкой решения на Stepik](https://stepik.org/lesson/65151/step/1)
 
 <div class="lessonStepikBlock">
