@@ -2,5 +2,5 @@
   "title": "Тип данных char. Таблица ASCII",
   "description": "Изучаем тип данных char в языке Си: как хранятся символы в памяти компьютера через таблицу ASCII, работа с char как с целочисленным типом, арифметические операции, преобразование символов в числа, диапазоны значений signed и unsigned char. Урок для начинающих программистов с примерами кода.",
   "keywords": "тип данных char, char в C, ASCII таблица, кодировка ASCII, символы в C, signed char, unsigned char, CHAR_BIT, преобразование символов, арифметика с char, код символа, printf %c, scanf %c, модификаторы типа",
-  "canonical_link": "https://youngcoder.ru/lessons/9/tip_dannyh_char"
+  "canonical_link": "https://youngcoder.ru/lessons/10/tip_dannyh_char"
 }
