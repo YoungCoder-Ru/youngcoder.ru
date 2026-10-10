@@ -1,5 +1,11 @@
 ## Практика
 
+- Чтобы закрепить в памяти материал урока, пройдите дополнительный мини-урок по массивам на Stepik [задачи с автоматической проверкой решения на Stepik](https://stepik.org/lesson/2651383/step/1)
+
+<div class="lessonStepikBlock">
+    <iframe src="https://stepik.org/lesson/2651383/step/1"></iframe>
+</div>
+
 - Решите [задачи с автоматической проверкой решения на Stepik](https://stepik.org/lesson/64560/step/1)
 
 <div class="lessonStepikBlock">
