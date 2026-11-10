@@ -1,6 +1,6 @@
 {
-  "title": "Стандартные функции работы со строками. Заголовочный файл string.h",
-  "description": "В уроке разбираются самые простые стандартные функции работы со строками в языке Си: strlen, strcat, strcmp и функция strcpy.",
-  "keywords": "strlen, strcat, strcmp, strcpy, функции работы со строками, заголовочный файл string.h",
+  "title": "Стандартные строковые функции языка Си",
+  "description": "Функции string.h для начинающих: strlen, strchr, strcat, strcmp и strcpy. Длина строки, поиск символа, склейка, копирование и сравнение строк. Почему в Си строки нельзя сравнивать через ==.",
+  "keywords": "функции работы со строками в си, string.h, strlen, strchr, strcat, strcmp, strcpy, сравнение строк в си, копирование строки в си, конкатенация строк, длина строки strlen, поиск символа в строке, C-строка, нуль-символ, язык си для начинающих",
   "canonical_link": "https://youngcoder.ru/lessons/10/funkcii_raboty_so_strokami"
 }
