@@ -17,7 +17,7 @@ int main(void)
 
         printf("source: %d\n", big_num);
         // printf("float: %f\n", float_num); // раскомментируйте, чтобы посмотреть на проблему
-        printf("after conversation: %d\n", back_to_int);
+        printf("after conversion: %d\n", back_to_int);
         printf("difference: %d\n", big_num - back_to_int);
 
         return 0;
